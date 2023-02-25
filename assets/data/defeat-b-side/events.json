@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"5",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					],
+					[
+						"Play Animation",
+						"aparece",
+						""
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					],
+					[
+						"Play Animation",
+						"quitate",
+						""
+					]
+				]
+			],
+			[
+				107925,
+				[
+					[
+						"Play Animation",
+						"aparece",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			]
+		]
+	}
+}
