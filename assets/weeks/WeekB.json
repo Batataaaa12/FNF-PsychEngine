@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Reverse",
+			"nada",
+			[
+				31,
+				14,
+				17
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "flip",
+	"weekCharacters": [
+		"",
+		"week",
+		""
+	],
+	"storyName": "Vs bl a ck. . . . . . . error",
+	"weekName": "WeekBlackBside",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Defeat-b-side",
+			"blackbside",
+			[
+				22,
+				26,
+				30
+			]
+		],
+		[
+			"Danger-B-Side",
+			"blackbside",
+			[
+				21,
+				23,
+				25
+			]
+		],
+		[
+			"Finale-B-Side",
+			"blackbside",
+			[
+				10,
+				10,
+				10
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Flip",
+	"weekCharacters": [
+		"",
+		"blackB",
+		""
+	],
+	"storyName": "Vs B-Black",
+	"weekName": "WeekBlackSide",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
