@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "select",
+	"idle_anim": "normal",
+	"position": [
+		490,
+		70
+	],
+	"scale": 1,
+	"image": "blackB"
+}
