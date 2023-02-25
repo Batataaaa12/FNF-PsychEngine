@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="crewmate" width="2712" height="3056">
+  <SubTexture name="Idle0001.png" x="0" y="0"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0002.png" x="0" y="382"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0003.png" x="678" y="0"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0004.png" x="678" y="382"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0005.png" x="0" y="764"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0006.png" x="678" y="764"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0007.png" x="0" y="1146"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0008.png" x="678" y="1146"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0009.png" x="1356" y="0"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="Idle0010.png" x="1356" y="382"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="d0001.png" x="1356" y="764"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="d0002.png" x="1356" y="1146"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="d0003.png" x="0" y="1528"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="d0004.png" x="678" y="1528"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="d0005.png" x="1356" y="1528"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="l0001.png" x="0" y="1910"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="l0002.png" x="678" y="1910"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="l0003.png" x="1356" y="1910"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="l0004.png" x="2034" y="0"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="l0005.png" x="2034" y="382"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="r0001.png" x="2034" y="764"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="r0002.png" x="2034" y="1146"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="r0003.png" x="2034" y="1528"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="r0004.png" x="2034" y="1910"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="r0005.png" x="0" y="2292"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="u0001.png" x="678" y="2292"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="u0002.png" x="1356" y="2292"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="u0003.png" x="2034" y="2292"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="u0004.png" x="0" y="2674"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+  <SubTexture name="u0005.png" x="678" y="2674"  width="678" height="382" frameX="-0" frameY="-0" frameWidth="678" frameHeight="382"/>
+</TextureAtlas>

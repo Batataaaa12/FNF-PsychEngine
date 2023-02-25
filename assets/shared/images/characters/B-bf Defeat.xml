@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="B-bf Defeat.png" width="2444" height="2660">
+  <SubTexture name="up0001.png" x="0" y="0"  width="585" height="694" frameX="-385" frameY="-9" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="up0002.png" x="0" y="694"  width="595" height="664" frameX="-374" frameY="-36" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="right0001.png" x="585" y="0"  width="632" height="657" frameX="-369" frameY="-43" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="right0002.png" x="0" y="1358"  width="613" height="653" frameX="-374" frameY="-47" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0005.png" x="595" y="657"  width="634" height="651" frameX="-325" frameY="-49" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0004.png" x="1217" y="0"  width="629" height="651" frameX="-333" frameY="-49" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0001.png" x="0" y="2011"  width="630" height="649" frameX="-328" frameY="-51" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0002.png" x="613" y="1308"  width="634" height="648" frameX="-323" frameY="-52" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="left0002.png" x="1229" y="651"  width="577" height="647" frameX="-374" frameY="-53" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Idle0003.png" x="630" y="1956"  width="633" height="642" frameX="-334" frameY="-58" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="left0001.png" x="1247" y="1298"  width="584" height="638" frameX="-357" frameY="-62" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="down0002.png" x="1806" y="651"  width="601" height="632" frameX="-355" frameY="-68" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="down0001.png" x="1846" y="0"  width="598" height="619" frameX="-357" frameY="-77" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
